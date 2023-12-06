@@ -1,1 +1,2 @@
 #!/bin/bash
+echo "Absolute Path of Current Working Directory: $(pwd)"
